@@ -3,9 +3,9 @@
 [![Firmware Version](https://img.shields.io/badge/Version-1.1.2-brightgreen.svg)](https://github.com/prusa3d/Prusa-Firmware-ESP32-Cam/releases/)
 
 
-![GitHub Actions](https://github.com/ALD-Models/Prusa-ESP32-Cam-Web-Upload/actions/workflows/latest_firmware.yml/badge.svg)
+![GitHub Actions](https://github.com/Jake-Lofthouse/Prusa-ESP32-Cam-Web-Upload/actions/workflows/latest_firmware.yml/badge.svg)
 
-[![GitHub Pages Build & Deployment](https://github.com/ALD-Models/Prusa-ESP32-Cam-Web-Upload/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ALD-Models/Prusa-ESP32-Cam-Web-Upload/actions/workflows/pages/pages-build-deployment)
+[![GitHub Pages Build & Deployment](https://github.com/Jake-Lofthouse/Prusa-ESP32-Cam-Web-Upload/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Jake-Lofthouse/Prusa-ESP32-Cam-Web-Upload/actions/workflows/pages/pages-build-deployment)
 
 # Getting Started
 
@@ -13,7 +13,7 @@ I would highly recommend that you take a look at the official instructions provi
 
 # Uploading Code
 
-Plug your ESP32 Cam into a USB port on your computer or laptop. Then visit: [https://ald-models.github.io/Prusa-ESP32-Cam-Web-Upload](https://ald-models.github.io/Prusa-ESP32-Cam-Web-Upload).
+Plug your ESP32 Cam into a USB port on your computer or laptop. Then visit: [https://Jake-Lofthouse.github.io/Prusa-ESP32-Cam-Web-Upload](https://Jake-Lofthouse.github.io/Prusa-ESP32-Cam-Web-Upload).
 
 1. Select "Connect."
 2. Choose the COM port that your ESP is connected to.
